@@ -1,0 +1,15 @@
+h1{
+	background-color: grey;
+}
+body{
+	background-image: url("images/hugo-villegas-267210.jpg");
+	color: white;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+
+}
+
+#titel{
+	font-size: 100px;
+}
